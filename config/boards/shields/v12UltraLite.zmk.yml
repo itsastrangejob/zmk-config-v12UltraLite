@@ -2,7 +2,7 @@ file_format: "1"
 id: v12UltraLite
 name: v12UltraLite
 type: shield
-url: https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk
+url: https://github.com/itsastrangejob/zmk-config-v12Ultralite
 requires: [pro_micro]
 features:
   - keys
