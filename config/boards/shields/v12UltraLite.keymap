@@ -16,7 +16,7 @@
             bindings = <
                 &kp F18
                 &bt BT_CLR
-                &out OUT_USB
+                &out OUT_BLE
             >;
         };
     };
