@@ -17,4 +17,3 @@
 include:
   - board: nice_nano_v2
     shield: two_percent_milk
-    snippet: zmk-usb-logging
